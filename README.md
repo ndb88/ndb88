@@ -1,5 +1,8 @@
 ### Hi there folks 👋
-I am a Computing and IT student who specialised in Software Programming. I have recently graduated and I am currently in search of a job within the IT sector. My GitHub currently contains some examples of my projects as well as tutorials and various methods I used whilst studying. A lot of older projects and University work is currently being transferred from a local repository.
+I am a recent graduate with second class honours from Open University in Computing and IT (Software Programming). I am a mature individual with exceptional self-discipline able to undertake complex problem solving tasks effectively as both part of a team and on my own. My completed course had a strong focus on object-orientated software development within an Agile working environment and specific workings with JAVA, Python, SQL and PHP. Due to the distance learning nature of the course, my skill-set has been honed to work within the difficult atmosphere that remote working possesses. I am very interested in the technology sector as a whole but my particular area of interest lies in blockchain technology, IoT, cryptography and the solutions it can be provide. In my spare time I enjoy working with small electronic projects using Raspberry Pis, bread-boards and Arduino chips as well as playing guitar, bass and piano. 
+
+
+My GitHub currently contains some examples of my projects as well as tutorials I have used and various methods I used whilst studying. A lot of older projects and University work is currently being transferred from a local repository and other saved areas.
 <!--
 **ndb88/ndb88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
