@@ -8,7 +8,7 @@ I am a recent graduate with second class honours from Open University in Computi
 
 I am very interested in the developing world of blockchain technology and the real world solutions it can provide. I am particularly interested in the area's of self-sovereign identity and being able to control your own privacy through this.
 
-My GitHub currently contains some examples of my projects as well as tutorials I have used and various methods I used whilst studying. A lot of older projects and University work is currently being transferred from a local repository and other saved areas.
+My GitHub currently contains some examples of my work as well as tutorials and methods I have used whilst studying. I am currently transferring a lot my old project work from other saves.
 
 
  🌱 I’m currently learning - C# and building simple blockchains with Python and JAVA.
