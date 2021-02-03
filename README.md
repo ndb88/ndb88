@@ -13,7 +13,7 @@ My GitHub currently contains some examples of my work as well as tutorials and m
 
  🌱 I’m currently learning - C# and building simple blockchains with Python and JAVA.
  
- 🔭 I’m currently working through an implementation of simple blockchain using python forked from another developer (dvf).
+ 🔭 I’m currently working through implementations of simple blockchains using various languages.
 <!--
 **ndb88/ndb88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
