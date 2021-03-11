@@ -3,10 +3,7 @@
 
 I am a recent graduate with second class honours from Open University in Computing and IT (Software Programming). My completed course had a strong focus on object-orientated software development within an Agile working environment and specific workings with JAVA, Python, SQL and PHP. I am very interested in the technology sector as a whole but my particular area of interest lies in blockchain technology, IoT, cryptography and the solutions it can be provide. 
 
-I am very interested in the developing world of blockchain technology and the real world solutions it can provide. I am particularly interested in the area's of self-sovereign identity and being able to control your own privacy through this.
-
-My GitHub currently contains some examples of my work as well as tutorials and methods I have used whilst studying. I am currently transferring a lot my old project work from other saves.
-
+I am very interested in the developing world of blockchain technology and the real world solutions it can provide. I am particularly interested in the area's of self-sovereign identity and being able to control your own privacy through this. I enjoy building some hobby projects and hope to contribute more of these as time goes on.
 
  🌱 I’m currently learning - C# and building simple blockchains with Python and JAVA.
  
